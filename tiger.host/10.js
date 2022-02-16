@@ -1132,7 +1132,6 @@ div#tlogins img.fitimg.fl.u-pic {
 \
     background-color: #ffffff00!important;
 \
-    margin-left: 40px;
 \
 }
 .border {
