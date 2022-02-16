@@ -1266,7 +1266,6 @@ visibility: collapse;
 \
 a.label.label-primary.fl {
 \
-visibility: collapse;
 \
 }
 
