@@ -379,11 +379,7 @@ div#dpnl.dpnl.bg.tab-content {
 .bg {
 \
     padding: 2px 5px;
-\
-    border-radius: 10px;
-\
-    box-shadow: 5px 4px 30px #000;
-\
+
     border: 3px solid hsla(0,0%,100%,.8588235294117647)!important;
 \
     background: hsla(0,0%,100%,.8588235294117647)!important;
@@ -889,15 +885,11 @@ span.fr.uhash {
 }
 \
 .fl.ustat {
-\
     border-radius: 3px;
-\
-    margin-right: -47px;
-\
-    width: 48px!important;
-\
-    height: 48px!important;
-\
+    margin-right: -42px;
+    width: 38px!important;
+    height: 40px!important;
+    margin-left: 0px!important;
 }
 \
 span.fr.uhash {
@@ -911,11 +903,8 @@ span.fr.uhash {
 }
 \
 .bg {
-\
-    border-radius: 8px;
-\
-    box-shadow: 5px 4px 10px #000;
-\
+
+
     border: 3px solid hsla(0,0%,100%,.8588235294117647)!important;
 \
     background: hsla(0,0%,100%,.8588235294117647)!important;
