@@ -287,30 +287,7 @@ a.btn.minix.fa.fa-times.fr, a.btn.minix.fa.fa-thumbs-up.fr, a.btn.minix.fa.fa-co
     border-radius: 3px;
 \
 }
-\
-a.btn.minix.fa.fa-times.fr {
-\
-    color: #000!important;
-\
-    border-radius: 4px;
-\
-    padding: 1px 4px 2px 5px;
-\
-    margin-top: 6px;
-\
-    background-repeat: repeat-x;
-\
-    border-color: #fff!important;
-\
-    background-image: linear-gradient(to bottom,#dc1212 0,#e41111 100%)!important;
-\
-    margin-left: 2px;
-\
-    width: 25px;
-\
-    margin-right: 2px;
-\
-}
+
 \
 a.like2.btn.minix.btn-danger.fa.fa-heart.fr {
 \
