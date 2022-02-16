@@ -1366,7 +1366,7 @@ margin-top: 46px!important;
 \
     height: 120px;
 \
-    top: 160px;
+    top: 193px;
 \
     background-image: -webkit-linear-gradient( 
 \
