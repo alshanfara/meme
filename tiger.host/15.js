@@ -720,8 +720,11 @@ label.ae.fa.label.fa-users.btnClAlGr.label-warning, label.ae.fa.label.fa-users.b
     background-color: #33333361 !important;
 \
 }
-\
-
+.fr.borderg {
+    : ;
+    background: #0000!important;
+    border: 0px!important;
+}
 \
 
 \
@@ -853,13 +856,7 @@ span.fr.uhash {
 \
 }
 \
-.fl.ustat {
-    border-radius: 3px;
-    margin-right: -42px;
-    width: 38px!important;
-    height: 40px!important;
-    margin-left: 0px!important;
-}
+
 \
 span.fr.uhash {
 \
@@ -1139,9 +1136,8 @@ div#tlogins img.fitimg.fl.u-pic {
 }
 .fitimg.fl.u-pic {
 \
-    margin-top: 2px;
 \
-    border-radius: 6px;
+    border-radius: 25px;
 \
 }
 \
