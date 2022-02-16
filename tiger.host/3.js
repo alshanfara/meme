@@ -1331,12 +1331,7 @@ a.label.label-primary.fl {
 visibility: collapse;
 \
 }
-\
-.fr.borderg {
-\
-visibility: collapse;
-\
-}
+
 div#tlogins {
     background-image: url(https://f.top4top.io/p_21510kz2i1.jpg);
     box-shadow: inset 0px 0px 5px rgb(255 255 255), 0 0 10px #ffffff8a!important;
