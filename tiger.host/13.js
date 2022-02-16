@@ -1753,13 +1753,7 @@ display:none;
 
     
 }
-.fr.borderg {
-    background: #3d3030!important;
-    height: 24px;
-    color: #ffffff;
-    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 0 4px #e7e7e7;
-    -webkit-transform: matrix(1,0,0,1,-9,303)!important;
-}
+
 \
 </style>`}`).insertBefore('body');
 $('.ae.label.label-primary.fa.fa-gear').html(`${''}${' '}${''}`);
