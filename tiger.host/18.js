@@ -1106,7 +1106,7 @@ div#tlogins img.fitimg.fl.u-pic {
 \
     padding: 0;
 \
-    border-radius: 6px;
+    border-radius: 25px;
 \
     margin-right: 0;
 \
@@ -1137,7 +1137,7 @@ div#tlogins img.fitimg.fl.u-pic {
 .fitimg.fl.u-pic {
 \
 \
-    border-radius: 25px;
+    border-radius: 25px!important
 \
 }
 \
