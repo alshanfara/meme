@@ -1754,6 +1754,13 @@ display:none;
 
     
 }
+.fr.borderg {
+    background: #3d3030!important;
+    height: 24px;
+    color: #ffffff;
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 0 4px #e7e7e7;
+    -webkit-transform: matrix(1,0,0,1,-9,303)!important;
+}
 \
 </style>`}`).insertBefore('body');
 $('.ae.label.label-primary.fa.fa-gear').html(`${''}${' '}${''}`);
@@ -1763,7 +1770,7 @@ $('.fa.fa-send.fl.btn.btn-primary').html(`${''}${' '}${''}`);
 $('.fa.fa-send.sndbc.fl.btn.btn-primary').html(`${''}${' '}${''}`);
 $('.ae.label.label-primary.fa.fa-bolt').html(`${''}${' '}${''}`);
 $('.ae.fa.label.label-primary.fa-microphone').html(`${''}${' '}${''}`);
-$('.fl.ustat').css('width', '3px'), $('.fa.fa-user-plus').html(`${'?تسجيل '}`), document.getElementById('u1').placeholder = 'اكتب اسمك من 5 احرف فقط ', document.getElementById('pass1').placeholder = 'كلمة المرور', document.getElementById('u2').placeholder = 'فخأمة طلتك تنورنا', document.getElementById('pass2').placeholder = ' ? بـاسوردك ولاتنساه يـ جميل ', document.getElementById('u3').placeholder = '? أكتب اسمك ولازم تحفظه ';
+$('.fl.ustat').css('width', '3px'), $('.fa.fa-user-plus').html(`${'تسجيل '}`), document.getElementById('u1').placeholder = 'اكتب اسمك من 5 احرف فقط ', document.getElementById('pass1').placeholder = 'كلمة المرور', document.getElementById('u2').placeholder = 'فخأمة طلتك تنورنا', document.getElementById('pass2').placeholder = ' ? بـاسوردك ولاتنساه يـ جميل ', document.getElementById('u3').placeholder = '? أكتب اسمك ولازم تحفظه ';
 $('div#l1 button.btn.btn-primary').bind('click', function () {
     alert('اهلا وسهلا بكم في شات ميمي للجوال  سجل عضوية تحصل على 5000 لايك وزخرفة :: طريقة التسجيل اضغط على خيار (تـسجيـل )  (اكتب اسمك المستعار + كلمة المرور ) وبعدها اضغط دخول')
 });
