@@ -986,7 +986,6 @@ div#tlogins span.corner.u-topic.dots {
 \
     left: 0!important;
 \
-    display: none;
 \
     margin-left: 0!important;
 \
