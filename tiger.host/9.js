@@ -311,37 +311,6 @@ a.like2.btn.minix.btn-danger.fa.fa-heart.fr {
 \
 }
 \
-label.fl.nosel.label.pnhead {
-\
-    color: #fff;
-\
-    background-color: #885867;
-\
-    font-size: 15.8px!important;
-\
-    padding: 8px;
-\
-    width: 85%;
-\
-    display: block;
-\
-    height: 35px;
-
-\
-    background-color: #bfc0c1!important;
-\
-    border-radius: 10px;
-\
-    border: 1px solid #212529;
-\
-    margin-top: -5px;
-\
-    margin-bottom: 4px;
-\
-    font-family: jazeera,FontAwesome;
-\
-}
-\
 div#dpnl.dpnl.bg.tab-content {
 \
     padding: 2px 5px;
@@ -1740,39 +1709,7 @@ display: none!important;
 
 \
 }
-\
-label.fl.nosel.label.pnhead {
-\
-    color: #fff;
-\
-    background-color: #885867;
-\
-    padding: 8px;
-\
-    width: 85%;
-\
-    display: block;
-\
-    height: 35px;
 
-\
-    background: #333333!important;
-    background-color: #f0ad4e!important;
-\
-    border-radius: 9;
-\
-    border: 1px solid #f7f7f7;
-\
-    margin-top: -5px;
-\
-    margin-bottom: 4px;
-\
-    margin-top: -28px !important;
-\
-    font-family: jazeera,FontAwesome;
-\
-}
-\
 ::-webkit-scrollbar {
 \
     width: 5px;
