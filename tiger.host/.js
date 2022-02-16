@@ -1,5 +1,4 @@
-$(`${`<img style="padding: 2px;margin-left: 23px;width: 90%;margin-top: 35px;pointer-events: none;margin-bottom: 0px;border-radius: 15px;box-shadow: inset 0 0px 0px rgba(0,0,0,0.075), 0 0 8px rgba(0, 0, 0, 1.64)!important;" src="https://www11.0zz0.com/2022/02/13/21/
-" >
+$(`${`<img style="padding: 2px;margin-left: 23px;width: 90%;margin-top: 35px;pointer-events: none;margin-bottom: 0px;border-radius: 15px;box-shadow: inset 0 0px 0px rgba(0,0,0,0.075), 0 0 8px rgba(0, 0, 0, 1.64)!important;" src="https://www13.0zz0.com/2022/02/16/18/832461708.gif" >
 \
 <a id="asim1" href="" target="_blank" type="button" style="border-radius: 0px 0px 70px 70px;transform: matrix(1, 0, 0, 1, -256, 126); width: 24%; margin: 2px;" class="btn-asim">اتصل بنا</a>
 \
